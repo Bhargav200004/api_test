@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">API TEST</string>
+    <string name="api_data">!-------API DATA FETCH-----!</string>
+</resources>
